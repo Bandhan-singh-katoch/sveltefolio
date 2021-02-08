@@ -1,0 +1,45 @@
+
+   @font-face {
+	font-family: 'Agustina Regular';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Agustina Regular'), url('./fonts/Agustina.woff') format('woff');
+	font-display: swap;
+  }
+  @font-face {
+	font-family: 'Montserrat';
+	src: local('Montserrat'), url('./fonts/Montserrat-Regular.ttf') format('woff');
+	font-display: swap;
+  }
+  code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+	  monospace;
+  }
+
+  html,
+  body {
+	scroll-behavior: smooth;
+  }
+
+  body {
+	background-color: #171c28!important;
+    color: #fff;
+	margin: 0;
+	padding: 0 1%;
+	font: 19px / 23px Montserrat, "Montserrat", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+
+  .subTitle {
+    color: #fff;
+  }
+
+  /* Media Query */
+  @media (max-width: 1380px) {
+	html,
+	body {
+	  font-size: 16px;
+	  line-height: normal;
+	}
+  }
