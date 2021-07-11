@@ -13,24 +13,24 @@ const Navbar = [
 
 // Your Summary And Greeting Section
 const Greeting = {
-  username: "John",
-  title: "Hi all, I'm John",
-  subTitle: "A passionate Software Developer 🚀 building Web and Mobile applications with JS, Svelte, Node and some other cool libraries and frameworks.",
+  username: "Bandhan Singh",
+  title: "Hi all, I'm Bandhan Singh",
+  subTitle: "A passionate Software Developer 🚀 building Android apps with Kotlin",
   resumeLink: "#",
   image: "./images/manOnTable.svg",
 };
 
 // Your Social Media Link
 const SocialMediaLinks = {
-  github: "https://github.com/",
-  linkedin: "https://www.linkedin.com/",
-  gmail: "youremail@gmail.com",
-  gitlab: "https://gitlab.com/",
-  facebook: "https://www.facebook.com/",
-  medium: "https://medium.com/",
-  stackoverflow: "https://stackoverflow.com/",
-  instagram: "https://www.instagram.com/",
-  twitter: "https://twitter.com/",
+  github: "https://github.com/Bandhan-singh-katoch/",
+  linkedin: "https://www.linkedin.com/in/bandhan-singh-81ab481a4",
+  gmail: "parbhatbandhan@gmail.com",
+
+  facebook: "https://www.facebook.com/bandhan.singh.1422",
+  medium: "https://medium.com/@parbhatbandhan",
+
+  instagram: "https://www.instagram.com/bandhan.singh.1422/",
+  twitter: "https://twitter.com/BandhanSingh20?s=09",
   // Instagram and Twitter are also supported in the links!
 };
 
